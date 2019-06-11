@@ -6,15 +6,15 @@
 
 ### Queue Exercise ###
 
-Tasklist:
-[ ] Add Queue to Repository
-[ ] Make a Tasklist
-[ ] Find the errors in the code
-[ ] Make comments for all methods and classes
-[ ] Make JUnit Test
-[ ] Write pom.xml
-[ ] integrate log4j
-[ ] Maven Site Documentation
-[ ] Markdown Lab Report
-[ ] Check the Project
-[ ] Abgabe
+##Tasklist: ##
+- [ ] Add Queue to Repository
+- [ ] Make a Tasklist
+- [ ] Find the errors in the code
+- [ ] Make comments for all methods and classes
+- [ ] Make JUnit Test
+- [ ] Write pom.xml
+- [ ] integrate log4j
+- [ ] Maven Site Documentation
+- [ ] Markdown Lab Report
+- [ ] Check the Project
+- [ ] Abgabe
