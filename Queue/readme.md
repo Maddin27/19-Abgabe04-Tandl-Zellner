@@ -6,9 +6,9 @@
 
 ### Queue Exercise ###
 
-##Tasklist: ##
-- [ ] Add Queue to Repository
-- [ ] Make a Tasklist
+Tasklist: 
+- [x] Add Queue to Repository
+- [x] Make a Tasklist
 - [ ] Find the errors in the code
 - [ ] Make comments for all methods and classes
 - [ ] Make JUnit Test
